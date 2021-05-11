@@ -1,9 +1,6 @@
 #DEMO GIT REPOSITORY
 This is first file
 
-This is addition to the file.
+I'm baby bicycle rights kale chips crucifix readymade leggings, hella pickled forage put a bird on it vaporware bushwick mumblecore. Quinoa paleo hella man braid, woke vape kickstarter ramps meh PBR&B freegan salvia williamsburg. Disrupt crucifix salvia, leggings man braid authentic stumptown hot chicken flexitarian tumeric small batch vinyl. Cronut adaptogen cred bespoke sartorial cold-pressed artisan hashtag seitan. Messenger bag fanny pack vape blog try-hard. Taiyaki next level truffaut photo booth tattooed.
 
-
-First of all open the folder you want to create the new file in your text editor like 'brackets' or 'VS studio'.
-Then simply type touch newFile. txt in git-bash .
-Then go back to text editor you have previously open and you can see the newFile. txt appears in the open folder.
+Synth franzen pok pok, put a bird on it knausgaard taiyaki mustache tilde butcher pork belly. Unicorn subway tile vexillologist, helvetica four dollar toast waistcoat 3 wolf moon enamel pin. Hell of air plant marfa salvia synth. Flexitarian thundercats YOLO, whatever intelligentsia seitan put a bird on it art party fixie listicle vape pork belly. Poutine wayfarers flannel tbh migas fashion axe kinfolk shabby chic small batch celiac microdosing. Tousled lo-fi bespoke snackwave quinoa blog.
